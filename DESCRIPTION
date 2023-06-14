@@ -5,7 +5,7 @@ Version: 0.1.0
 Author: Christopher R. Cox
 Maintainer: Christopher R. Cox <chriscox@lsu.edu>
 Description: Compute cosine similarity among rows of a matrix.
-License: MIT
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Suggests: 
