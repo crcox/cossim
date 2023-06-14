@@ -1,0 +1,14 @@
+Package: cossim
+Type: Package
+Title: Cosine similarity
+Version: 0.1.0
+Author: Christopher R. Cox
+Maintainer: Christopher R. Cox <chriscox@lsu.edu>
+Description: Compute cosine similarity among rows of a matrix.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.2.3
